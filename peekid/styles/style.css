@@ -1,0 +1,14 @@
+html {
+  background-color: #6BBAF1;
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+  text-align:center;
+  letter-spacing:5px;
+}
+body {
+  margin:0 auto;
+  border: 2px solid black;
+  width:600px;
+}
